@@ -22,7 +22,7 @@ In this project, I implemented a simple predator, prey, food scenario frequently
 - I also wanted to simulate a real mitosis by halfing the mass of the movers, but that would require really large movers which would entirely fill up the scree.
  
 ## Media Resources
-!()[Link to video]
+[Link to video]()
 
 <img src="eco1.png" width="400">
 <img src="eco2.png" width="400">
