@@ -31,6 +31,8 @@ I finalised the designs and the code for the different movers and their interati
 Added the enemy functionality on click. Whenever the user clickes, a new enemy is generated. The enemy feeds on all the movers and grows in size. As the size grows, the repulsive force gets larger. I also made the aggression inversely proportional to the size of the food available at the time. I did some code clean up as well to get rid of redundant code.
 
 ## 6th March
-Today, I added the instructions screen the 
+Today, I added the instructions screen before the game starts and finalized the entire interactions in the game. I however encountered an issue where when the user starts the game, the enemies are instantiated by the residual click on the start button. I spent part of the time fixing that error, and I eventually came up with a solution to use a boolean flag to remove any enemies that were created by the residual clicks before the game.
 
 ## 8th March
+I did not do a lot today, as I had already implemented most of the the details of the game. I spent the most of today, cleaning up and commenting the code, creating a readme.md file and pushing the code to github.
+
