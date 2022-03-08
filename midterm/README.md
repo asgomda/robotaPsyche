@@ -1,10 +1,11 @@
 ## Concept
 I based the ecosystem on the three main features of an ecosystem which are feeding, reproduction, and death. In the ecosystem, there are three movers that the ecosystem is based around. 
 
-<!-- - The first is the green mover which is the largest mover in the ecosystem. Due to its size, it is the most aggresive towards food. The level of aggression is inversely related to the amount of food present. Meaning, the the smaller the amount of food remaining at that time, the more aggresive the movers will be. 
-- The second mover is the purple mover which is the second largest mover in the ecosystem 
+- The first is the green mover which is the largest mover in the ecosystem. Due to its size, it is the most aggresive towards food. The level of aggression is inversely related to the amount of food present. Meaning, the the smaller the amount of food remaining at that time, the more aggresive the movers will be. 
+- The second mover is the purple mover which is the second largest mover in the ecosystem. This mover feeds on the smaller mover and has a medium aggression level. 
+- The final mover is the yellow mover and it is the smallest mover in the ecosystem. This mover is attracted towards the largest mover (as if for protection) and is repelled by the medium mover.
 
-- Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+<!-- - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 - Any live cell with two or three live neighbours lives on to the next generation.
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
