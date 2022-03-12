@@ -27,7 +27,7 @@ The most interesting behaviour I observed was the flocking effect of the differe
 
 ## Media
 
-![link to video](https://youtu.be/je8woDXMyIc)
+[link to video](https://youtu.be/je8woDXMyIc)
 
 <img src="sc3.png" width="500" height="500" style="display: inline">
 
