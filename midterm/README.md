@@ -15,11 +15,15 @@ I started off by deciding the specific instructions and interactions the ecosyst
 
 ## Problems
 One of the main problems I faced was with the instruction screen. I implemented the enemy feature, which spawns an enemy when there is a mouse click, however, the instruction screen also had a mouse click to start the game so an enemy would always be spawned when the game starts which was obviously a bug. I came up with a work around for this which involved setting a boolean value and clearing the enemies array in the first iteration of the draw function. 
-<img src="" width="400" height="400">
+
+
+<img src="" width="500" height="500">
   
 
 ## Discoveries
-The most interesting behaviour I observed was the flocking effect of the different movers 
+The most interesting behaviour I observed was the flocking effect of the different movers. Though the smallest movers were attracted to the largest movers, the greater force of attraction to food made the different movers flock together which was really interesting and an example of a behaviour which wasn't explicitly implemented.
+
+<img src="" width="500" height="500">
 
 ## Media
 
