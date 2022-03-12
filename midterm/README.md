@@ -11,21 +11,15 @@ However, these rules were not very clear to implement, and the interaction were 
 - The final mover is the yellow mover and it is the smallest mover in the ecosystem. This mover is attracted towards the largest mover (as if for protection) and is repelled by the medium mover.
 
 ## Process
-I started off by deciding the specific instructions and interactions the ecosystem would have. After I did this, I implemented the movers, attractors and enemies and lastly implemented the interactions. 
+I started off by deciding the specific instructions and interactions the ecosystem would have. After I did this, I implemented the movers, attractors and enemies in different tabs in processing and lastly implemented the interactions. 
 
-<!-- - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
-- Any live cell with two or three live neighbours lives on to the next generation.
-- Any live cell with more than three live neighbours dies, as if by overpopulation.
-- Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+## Problems
+One of the main problems I faced was with the instruction screen. I implemented the enemy feature, which spawns an enemy when there is a mouse click, however, the instruction screen also had a mouse click to start the game so an enemy would always be spawned when the game starts which was obviously a bug. I came up with a work around for this 
 
-The concept
-The process you took to achieve it
-Problems if any, and solutions or workarounds
-Anything interesting you discovered or learned
-Any resources you found useful (tutorials, books, friends, ideas from other classes, etc.)
+---> insert image here 
 
-### 1. DNA
-I am planning on having three different types of creatures have different features. The characteristics I am considering are speed, reproducibility threshold, size and aggression. Essentially, the three different creatures would be divided into three groups based on the above characteristics.
 
-### 2. Natural Selection
-At random intervals, the creatures would develop mutations, in their characteristics and only those who meet some characteristics would be evolve to the next generation. -->
+## Discoveries
+
+## Media
+
