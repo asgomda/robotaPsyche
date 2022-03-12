@@ -14,12 +14,12 @@ However, these rules were not very clear to implement, and the interaction were 
 I started off by deciding the specific instructions and interactions the ecosystem would have. After I did this, I implemented the movers, attractors and enemies in different tabs in processing and lastly implemented the interactions. 
 
 ## Problems
-One of the main problems I faced was with the instruction screen. I implemented the enemy feature, which spawns an enemy when there is a mouse click, however, the instruction screen also had a mouse click to start the game so an enemy would always be spawned when the game starts which was obviously a bug. I came up with a work around for this 
-
----> insert image here 
-
+One of the main problems I faced was with the instruction screen. I implemented the enemy feature, which spawns an enemy when there is a mouse click, however, the instruction screen also had a mouse click to start the game so an enemy would always be spawned when the game starts which was obviously a bug. I came up with a work around for this which involved setting a boolean value and clearing the enemies array in the first iteration of the draw function. 
+<img src="" width="400" height="400">
+  
 
 ## Discoveries
+The most interesting behaviour I observed was the flocking effect of the different movers 
 
 ## Media
 
