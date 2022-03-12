@@ -21,7 +21,7 @@ One of the main problems I faced was with the instruction screen. I implemented 
   
 
 ## Discoveries
-The most interesting behaviour I observed was the flocking effect of the different movers. Though the smallest movers were attracted to the largest movers, the greater force of attraction to food made the different movers flock together which was really interesting and an example of a behaviour which wasn't explicitly implemented.
+The most interesting behaviour I observed was the flocking effect of the different movers. Though the smallest movers were attracted to the largest movers, the greater force of attraction to food made the different movers flock together which was really interesting and an example of a behaviour which wasn't explicitly implemented. Also, the movers were more likely to take risks with the enemy when there was not enough food left.
 
 <img src="sc2.png" width="500" height="500">
 
