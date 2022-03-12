@@ -27,6 +27,8 @@ The most interesting behaviour I observed was the flocking effect of the differe
 
 ## Media
 
+![link to video]()
+
 <img src="sc3.png" width="500" height="500" style="display: inline">
 
 <img src="sc3.png" width="500" height="500" style="display: inline">
