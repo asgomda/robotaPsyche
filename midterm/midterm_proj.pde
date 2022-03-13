@@ -1,7 +1,8 @@
 /*
-
-
-
+Name: Abdul Samad Gomda
+Class: Robota Psyche
+Date: 10th March 2022
+Description: An ecosyste midterm project for the class Robota Psyche
 */
 
 
